@@ -43,7 +43,7 @@ You need to install Nodejs and MongoDB
 
 ## HOW TO RUN-------------
 
-* 0-First install all the Software after moving inside the project folder like "node.js", "npm install" , "npm install ongo db" "npm install passport" "npm install stripe".
+* 0-First install all the Software after moving inside the project folder like "node.js", "npm install" , "npm install Mongo db" "npm install passport" "npm install stripe".
 * 1-RUN "mongod" ON Command prompt.
 * 2-Then get into the "seed" folder and run "product_seeder" file.
 * 3-Now run "npm start" on command prompt.
